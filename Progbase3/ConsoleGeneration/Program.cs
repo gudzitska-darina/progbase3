@@ -21,13 +21,12 @@ namespace ConsoleGeneration
             ProductGen prGen = new ProductGen(csvProd, repoProd);
             OrderGen orGen = new OrderGen(csvProd, repoOrd, repoUs, repoProd, billRepo);
             UserGen usGen = new UserGen(repoUs);
-            
-            ImageGeneration img = new ImageGeneration("graf.png");
+
             WriteLine("Таблица связей генерируется автоматически!\nРекомендуется генерировать заказы после генерации пользователей");
             while(true)
             {
                 WriteLine("Введите тип сутности которую хотите сгенерировать");
-                string entity = "img";
+                string entity = ReadLine();
                 if(entity == "products")
                 {
                     WriteLine("Введите в таком порядке значения: количество(max 55), диапазон цен(записать через '-')");
@@ -47,12 +46,6 @@ namespace ConsoleGeneration
                     WriteLine("Введите в таком порядке значения: количество, генерировать модераторов(true/false)");
                     string values = ReadLine();
                     usGen.StartGeneration(values);
-                }
-                else if(entity == "img")
-                {
-                    List<Product> prod = repoProd.GetAll();
-                    img.Generate(prod);
-                    break;
                 }
 
             }
