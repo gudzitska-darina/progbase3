@@ -1,0 +1,122 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <product>
+    <id>128</id>
+    <name>Apple Iphone 12 Purple</name>
+    <info> Экран (6.1``; OLED (Super Retina XDR); 2532x1170) / Apple A14 Bionic / двойная основная камера: 12 Мп + 12 Мп; фронтальная камера: 12 Мп / 64 ГБ встроенной памяти / 3G / LTE / 5G / GPS / Nano-SIM; eSIM / iOS 14 </info>
+    <price>26546</price>
+    <availability>false</availability>
+  </product>
+  <product>
+    <id>129</id>
+    <name>Apple Iphone 12 Black</name>
+    <info> Экран (6.1``; OLED (Super Retina XDR); 2532x1170) / Apple A14 Bionic / двойная основная камера: 12 Мп + 12 Мп; фронтальная камера: 12 Мп / 64 ГБ встроенной памяти / 3G / LTE / 5G / GPS / Nano-SIM; eSIM / iOS 15 </info>
+    <price>59272</price>
+    <availability>true</availability>
+  </product>
+  <product>
+    <id>131</id>
+    <name>Apple Iphone 12 Pink</name>
+    <info> Экран (6.1``; OLED (Super Retina XDR); 2532x1170) / Apple A14 Bionic / двойная основная камера: 12 Мп + 12 Мп; фронтальная камера: 12 Мп / 64 ГБ встроенной памяти / 3G / LTE / 5G / GPS / Nano-SIM; eSIM / iOS 17 </info>
+    <price>57084</price>
+    <availability>false</availability>
+  </product>
+  <product>
+    <id>132</id>
+    <name>Apple Iphone 12 Red</name>
+    <info> Экран (6.1``; OLED (Super Retina XDR); 2532x1170) / Apple A14 Bionic / двойная основная камера: 12 Мп + 12 Мп; фронтальная камера: 12 Мп / 64 ГБ встроенной памяти / 3G / LTE / 5G / GPS / Nano-SIM; eSIM / iOS 18 </info>
+    <price>52105</price>
+    <availability>true</availability>
+  </product>
+  <product>
+    <id>133</id>
+    <name>Apple Iphone 12 Grey</name>
+    <info> Экран (6.1``; OLED (Super Retina XDR); 2532x1170) / Apple A14 Bionic / двойная основная камера: 12 Мп + 12 Мп; фронтальная камера: 12 Мп / 64 ГБ встроенной памяти / 3G / LTE / 5G / GPS / Nano-SIM; eSIM / iOS 19 </info>
+    <price>48888</price>
+    <availability>false</availability>
+  </product>
+  <product>
+    <id>134</id>
+    <name>Apple Iphone 12 Pro Purple</name>
+    <info> Экран (6.7``; OLED (Super Retina XDR); 2778x1284) / Apple A14 Bionic / тройная основная камера: 12 Мп + 12 Мп + 12 Мп; фронтальная камера: 12 Мп / 256 ГБ встроенной памяти / 3G / LTE / 5G / GPS / Nano-SIM / iOS 14 </info>
+    <price>28691</price>
+    <availability>true</availability>
+  </product>
+  <product>
+    <id>135</id>
+    <name>Apple Iphone 12 Pro Black</name>
+    <info> Экран (6.7``; OLED (Super Retina XDR); 2778x1284) / Apple A14 Bionic / тройная основная камера: 12 Мп + 12 Мп + 12 Мп; фронтальная камера: 12 Мп / 256 ГБ встроенной памяти / 3G / LTE / 5G / GPS / Nano-SIM / iOS 15 </info>
+    <price>68304</price>
+    <availability>true</availability>
+  </product>
+  <product>
+    <id>136</id>
+    <name>Apple Iphone 12 Pro White</name>
+    <info> Экран (6.7``; OLED (Super Retina XDR); 2778x1284) / Apple A14 Bionic / тройная основная камера: 12 Мп + 12 Мп + 12 Мп; фронтальная камера: 12 Мп / 256 ГБ встроенной памяти / 3G / LTE / 5G / GPS / Nano-SIM / iOS 16 </info>
+    <price>52097</price>
+    <availability>false</availability>
+  </product>
+  <product>
+    <id>137</id>
+    <name>Apple Iphone 12 Pro Pink</name>
+    <info> Экран (6.7``; OLED (Super Retina XDR); 2778x1284) / Apple A14 Bionic / тройная основная камера: 12 Мп + 12 Мп + 12 Мп; фронтальная камера: 12 Мп / 256 ГБ встроенной памяти / 3G / LTE / 5G / GPS / Nano-SIM / iOS 17 </info>
+    <price>78181</price>
+    <availability>true</availability>
+  </product>
+  <product>
+    <id>138</id>
+    <name>Apple Iphone 12 Pro Red</name>
+    <info> Экран (6.7``; OLED (Super Retina XDR); 2778x1284) / Apple A14 Bionic / тройная основная камера: 12 Мп + 12 Мп + 12 Мп; фронтальная камера: 12 Мп / 256 ГБ встроенной памяти / 3G / LTE / 5G / GPS / Nano-SIM / iOS 18 </info>
+    <price>73907</price>
+    <availability>false</availability>
+  </product>
+  <product>
+    <id>139</id>
+    <name>Apple Iphone 12 Pro Grey</name>
+    <info> Экран (6.7``; OLED (Super Retina XDR); 2778x1284) / Apple A14 Bionic / тройная основная камера: 12 Мп + 12 Мп + 12 Мп; фронтальная камера: 12 Мп / 256 ГБ встроенной памяти / 3G / LTE / 5G / GPS / Nano-SIM / iOS 19 </info>
+    <price>47676</price>
+    <availability>false</availability>
+  </product>
+  <product>
+    <id>140</id>
+    <name>Apple Iphone 12 Mini Purple</name>
+    <info> Экран (5.4``; OLED (Super Retina XDR); 2340х1080) / Apple A14 Bionic / двойная основная камера: 12 Мп + 12 Мп; фронтальная камера: 12 Мп / 128 ГБ встроенной памяти / 3G / LTE / 5G / GPS / Nano-SIM; eSIM / iOS 14 </info>
+    <price>65253</price>
+    <availability>false</availability>
+  </product>
+  <product>
+    <id>141</id>
+    <name>Apple Iphone 12 Mini Black</name>
+    <info> Экран (5.4``; OLED (Super Retina XDR); 2340х1080) / Apple A14 Bionic / двойная основная камера: 12 Мп + 12 Мп; фронтальная камера: 12 Мп / 128 ГБ встроенной памяти / 3G / LTE / 5G / GPS / Nano-SIM; eSIM / iOS 15 </info>
+    <price>34651</price>
+    <availability>true</availability>
+  </product>
+  <product>
+    <id>142</id>
+    <name>Apple Iphone 12 Mini White</name>
+    <info> Экран (5.4``; OLED (Super Retina XDR); 2340х1080) / Apple A14 Bionic / двойная основная камера: 12 Мп + 12 Мп; фронтальная камера: 12 Мп / 128 ГБ встроенной памяти / 3G / LTE / 5G / GPS / Nano-SIM; eSIM / iOS 16 </info>
+    <price>42660</price>
+    <availability>false</availability>
+  </product>
+  <product>
+    <id>143</id>
+    <name>Apple Iphone 12 MiniPink</name>
+    <info> Экран (5.4``; OLED (Super Retina XDR); 2340х1080) / Apple A14 Bionic / двойная основная камера: 12 Мп + 12 Мп; фронтальная камера: 12 Мп / 128 ГБ встроенной памяти / 3G / LTE / 5G / GPS / Nano-SIM; eSIM / iOS 17 </info>
+    <price>48464</price>
+    <availability>false</availability>
+  </product>
+  <product>
+    <id>144</id>
+    <name>Apple Iphone 12 Mini Red</name>
+    <info> Экран (5.4``; OLED (Super Retina XDR); 2340х1080) / Apple A14 Bionic / двойная основная камера: 12 Мп + 12 Мп; фронтальная камера: 12 Мп / 128 ГБ встроенной памяти / 3G / LTE / 5G / GPS / Nano-SIM; eSIM / iOS 18 </info>
+    <price>65401</price>
+    <availability>false</availability>
+  </product>
+  <product>
+    <id>145</id>
+    <name>Apple Iphone 12 Mini Grey</name>
+    <info> Экран (5.4``; OLED (Super Retina XDR); 2340х1080) / Apple A14 Bionic / двойная основная камера: 12 Мп + 12 Мп; фронтальная камера: 12 Мп / 128 ГБ встроенной памяти / 3G / LTE / 5G / GPS / Nano-SIM; eSIM / iOS 19 </info>
+    <price>55951</price>
+    <availability>false</availability>
+  </product>
+</root>

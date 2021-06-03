@@ -1,0 +1,52 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <product>
+    <id>168</id>
+    <name>Apple iMac M1 Purple</name>
+    <info> Экран 23.5`` (4480x2520) 4.5K / Apple M1 / RAM 8 ГБ / SSD 256 ГБ / Apple M1 Graphics (7 ядер) / без ОД / Wi-Fi / Bluetooth / веб-камера / macOS Big Sur / 4.46 кг / клавиатура + мышь </info>
+    <price>69867</price>
+    <availability>true</availability>
+  </product>
+  <product>
+    <id>169</id>
+    <name>Apple iMac M1 Red</name>
+    <info> Экран 23.5`` (4480x2520) 4.5K / Apple M1 / RAM 8 ГБ / SSD 256 ГБ / Apple M1 Graphics (7 ядер) / без ОД / Wi-Fi / Bluetooth / веб-камера / macOS Big Sur / 4.46 кг / клавиатура + мышь </info>
+    <price>24937</price>
+    <availability>false</availability>
+  </product>
+  <product>
+    <id>170</id>
+    <name>Apple iMac M1Yellow</name>
+    <info> Экран 23.5`` (4480x2520) 4.5K / Apple M1 / RAM 8 ГБ / SSD 256 ГБ / Apple M1 Graphics (7 ядер) / без ОД / Wi-Fi / Bluetooth / веб-камера / macOS Big Sur / 4.46 кг / клавиатура + мышь </info>
+    <price>28947</price>
+    <availability>false</availability>
+  </product>
+  <product>
+    <id>171</id>
+    <name>Apple iMac M1 White</name>
+    <info> Экран 23.5`` (4480x2520) 4.5K / Apple M1 / RAM 8 ГБ / SSD 256 ГБ / Apple M1 Graphics (7 ядер) / без ОД / Wi-Fi / Bluetooth / веб-камера / macOS Big Sur / 4.46 кг / клавиатура + мышь </info>
+    <price>47959</price>
+    <availability>false</availability>
+  </product>
+  <product>
+    <id>172</id>
+    <name>Apple iMac M1 Blue</name>
+    <info> Экран 23.5`` (4480x2520) 4.5K / Apple M1 / RAM 8 ГБ / SSD 256 ГБ / Apple M1 Graphics (7 ядер) / без ОД / Wi-Fi / Bluetooth / веб-камера / macOS Big Sur / 4.46 кг / клавиатура + мышь </info>
+    <price>55770</price>
+    <availability>true</availability>
+  </product>
+  <product>
+    <id>173</id>
+    <name>Apple iMac Grey</name>
+    <info> Экран 27`` IPS Retina (5120x2880) 5K LED / Intel Core i7 (3.8 - 5.0 ГГц) / RAM 8 ГБ / SSD 512 ГБ / AMD Radeon Pro 5500 XT; 8 ГБ / без ОД / LAN / Wi-Fi / Bluetooth / кардридер / веб-камера / macOS Catalina / 8.92 кг / серебристый / клавиатура + мышь </info>
+    <price>57546</price>
+    <availability>true</availability>
+  </product>
+  <product>
+    <id>174</id>
+    <name>Apple iMac Silver</name>
+    <info> Экран 27`` IPS Retina (5120x2880) 5K LED / Intel Core i7 (3.8 - 5.0 ГГц) / RAM 8 ГБ / SSD 512 ГБ / AMD Radeon Pro 5500 XT; 8 ГБ / без ОД / LAN / Wi-Fi / Bluetooth / кардридер / веб-камера / macOS Catalina / 8.92 кг / серебристый / клавиатура + мышь </info>
+    <price>39137</price>
+    <availability>false</availability>
+  </product>
+</root>
